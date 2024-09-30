@@ -1,0 +1,21 @@
+--Delete from cart
+--exit cart
+--sales of today show
+--multiple shop system (create stock tables separately for them)
+/\multiple user (sales of one user in his account)
+--make a master user and add new items to main stock
+--edit main stock
+--list product company wise for employee
+--write main menu etc above options
+--fix title screen
+--tell that item has been added to stock
+--fix stock and price interchange while buying
+--fix quantity=quantity-2 while buying
+--add to stock when items are already present
+--work on already present add to stock
+--wholesale table
+--press enter to add more items to cart
+delete item from main stock
+
+future scope
+
